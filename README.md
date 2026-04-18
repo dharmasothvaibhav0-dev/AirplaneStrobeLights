@@ -30,3 +30,4 @@ This is made up of 10 resistors, **Its very important to know that resistor #1 i
 
 The entire BOM can be seen in the production files. But in short the pcb is made up of 8LEDS, 10 Resistors(1 8.2k, 1 1k, 8 220), 2 capacitors(1 .1u, 1 10u), a USB a connection as the power source, a NE555, and a CD4017.
 
+# I hope you enjoy building this!
