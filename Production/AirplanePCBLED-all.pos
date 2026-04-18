@@ -1,0 +1,29 @@
+### Footprint positions - created on 2026-04-18T14:16:27 ###
+### Printed by KiCad version 10.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                                PosX       PosY       Rot  Side
+C1        .01u      C_Disc_D8.0mm_W5.0mm_P5.00mm                       163.0000  -115.5000   90.0000  top
+C2        10u       C_Disc_D8.0mm_W5.0mm_P5.00mm                       141.0000  -116.5000   90.0000  top
+D1        LED       LED_D5.0mm                                         107.4600  -126.0000    0.0000  top
+D2        LED       LED_D5.0mm                                         119.4600  -119.0000    0.0000  top
+D3        LED       LED_D5.0mm                                         150.0000  -100.0000    0.0000  top
+D4        LED       LED_D5.0mm                                         179.0000  -119.0000    0.0000  top
+D5        LED       LED_D5.0mm                                         190.7300  -126.0000    0.0000  top
+D6        LED       LED_D5.0mm                                         135.7300  -161.0000    0.0000  top
+D7        LED       LED_D5.0mm                                         150.0000  -152.0000    0.0000  top
+D8        LED       LED_D5.0mm                                         164.0000  -160.0000  180.0000  top
+J1        USB_A     USB_A_Molex_67643_Horizontal                       154.5000   -91.3600  180.0000  top
+R1        8.2k      R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   136.1900  -108.0000    0.0000  top
+R2        1k        R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   159.3800  -107.0000    0.0000  top
+R4        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   115.0000  -120.1900  -90.0000  top
+R5        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   126.0000  -114.1900  -90.0000  top
+R6        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   147.1900  -106.0000    0.0000  top
+R7        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   175.0000  -120.8100   90.0000  top
+R8        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   187.0000  -126.8100   90.0000  top
+R9        220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   142.0000  -160.8100   90.0000  top
+R10       220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   147.3800  -145.0000    0.0000  top
+R11       220       R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   158.0000  -159.8100   90.0000  top
+U1        NE555P    DIP-8_W7.62mm                                      147.3800  -110.4600    0.0000  top
+U2        4017      DIP-16_W7.62mm                                     147.3800  -123.1100    0.0000  top
+## End
