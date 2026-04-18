@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D8.0mm_W5.0mm_P5.00mm";1;".1u";;;
+2;"C2";"C_Disc_D8.0mm_W5.0mm_P5.00mm";1;"10u";;;
+3;"D1, D2, D3, D4, D5, D6, D7, D8";"LED_D5.0mm";8;"LED";;;
+4;"J1";"USB_A_Molex_67643_Horizontal";1;"USB_A";;;
+5;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"8.2k";;;
+6;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"1k";;;
+7;"R4, R5, R6, R7, R8, R9, R10, R11";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";8;"220";;;
+8;"U1";"DIP-8_W7.62mm";1;"NE555P";;;
+9;"U2";"DIP-16_W7.62mm";1;"4017";;;
