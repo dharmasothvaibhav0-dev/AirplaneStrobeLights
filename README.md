@@ -43,4 +43,4 @@ This is made up of 10 resistors, **Its very important to know that resistor #1 i
 | U1                               | DIP-8_W7.62mm                                     | 1        | NE555P  |
 | U2                               | DIP-16_W7.62mm                                    | 1        | CD4017  |
 
-# I hope you enjoy building this!
+# I hope you enjoy building this! - Vaibhav :D
