@@ -19,7 +19,8 @@ Looking at the IC's datasheets, it helped me out with the schematic of creating 
 
 I want the LEDs to flash relatively quick, so I made it to where it would do a full cycle in around 1 second. It took me a while to understand how the calculations actually worked, but when looking online I found this amazing website that helps you out(https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-555-timer?utm_source=online&utm_medium=vanity&utm_campaign=555timer). This is the full NE555 circuit, and now we must connect it to the CD4017 circuit. 
 
-<img width="1271" height="756" alt="image" src="https://github.com/user-attachments/assets/0bcec627-29fb-4435-bebd-54a8383b9955" />
+<img width="628" height="547" alt="image" src="https://github.com/user-attachments/assets/05f46664-e397-4916-b382-babf91dcc5da" />
+
 
 This is the full cd4017 circuit. We want it to reset once it fully cycles so its important to set pin 9 to reset, so once the cycle reaches output 8 it goes back to output 1.
 
